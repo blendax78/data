@@ -1,0 +1,31 @@
+.right {
+	text-align: right;	
+}
+
+.center {
+	text-align: center;	
+}
+
+.left {
+	text-align: left;
+}
+
+.bold {
+	font-weight: bold;	
+}
+
+.addBorder {
+	border: thin solid black;	
+}
+
+.tableTitle {
+	width: 100px;	
+}
+
+.tableData {
+	width: 250px;	
+}
+
+.fakelinkbtn {
+	cursor: pointer;
+}
